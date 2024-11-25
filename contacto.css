@@ -1,0 +1,98 @@
+.formulario {
+    width: 50%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .formulario h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .formulario label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .formulario input, .formulario textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .formulario input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .formulario input[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  .formulario .campo-texto {
+    margin-bottom: 20px;
+  }
+  
+  .formulario .campo-texto label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .formulario .campo-texto input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .formulario .campo-seleccion {
+    margin-bottom: 20px;
+  }
+  
+  .formulario .campo-seleccion label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .formulario .campo-seleccion select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .formulario .campo-texto-area {
+    margin-bottom: 20px;
+  }
+  
+  .formulario .campo-texto-area label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .formulario .campo-texto-area textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .formulario .boton {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .formulario .boton:hover {
+    background-color: #3e8e41;
+  }
